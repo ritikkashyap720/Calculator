@@ -13,7 +13,7 @@ It can adapt the theme of device whether its dark or light.
 
 ## Demo
 
-- [Live Demo](https://github.com/ritikkashyap720)
+- [Live Demo](https://ritikkashyap720.github.io/Calculator/)
 
 # Light theme for desktop devices
 ![Light mode calulator](https://user-images.githubusercontent.com/72151729/164403631-7de54a50-53b0-4fb1-b483-29a98b056d53.png)
