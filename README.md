@@ -1,5 +1,5 @@
 
-##Calculator 
+## Calculator 
 
 This is a javascript calculator made from scratch with the help of HTML, CSS and javascript. 
 It can adapt the theme of device whether its dark or light.
