@@ -1,5 +1,5 @@
 
-Calculator 
+##Calculator 
 
 This is a javascript calculator made from scratch with the help of HTML, CSS and javascript. 
 It can adapt the theme of device whether its dark or light.
@@ -10,22 +10,24 @@ It can adapt the theme of device whether its dark or light.
 - [@ritikkashyap720](https://github.com/ritikkashyap720)
 
 
+
 ## Demo
 
 - [Live Demo](https://github.com/ritikkashyap720)
 
 # Light theme for desktop devices
--[screenshot of light theme](Images/light mode calulator.png)
+![Light mode calulator](https://user-images.githubusercontent.com/72151729/164403631-7de54a50-53b0-4fb1-b483-29a98b056d53.png)
 
 
 # Dark theme for desktop devices
--[screenshot of dark theme](Images/dark mode calulator.png)
+![Dark mode calulator](https://user-images.githubusercontent.com/72151729/164403762-230fdf7b-c64f-46d8-9b1e-821677b34721.png)
+
 
 # Light theme for mobile devices
--[screenshot of light theme](Images/mobile light calulator.jpg)
+![mobile light calulator](https://user-images.githubusercontent.com/72151729/164403895-baa4c0d3-f3f1-4a66-a02b-86163af8750d.jpg)
 
 # Dark theme for mobile devices
--[screenshot of light theme](Images/mobile dark calculator.jpg)
+![mobile dark calculator](https://user-images.githubusercontent.com/72151729/164403836-7accef75-863a-4a76-b823-08aa5b37abf9.jpg)
 
 
 
